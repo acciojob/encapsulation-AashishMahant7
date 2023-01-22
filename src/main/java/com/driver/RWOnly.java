@@ -1,7 +1,7 @@
 package com.driver;
 
 public class RWOnly {
-    private int aashish;
+    private int name;
 
     public int getAashish() {
         return 7;
