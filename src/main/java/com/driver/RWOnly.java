@@ -3,11 +3,11 @@ package com.driver;
 public class RWOnly {
     private int name;
 
-    public int getAashish() {
+    public int getName() {
         return 7;
     }
 
-    public void setAashish(int aashish) {
-        this.aashish = 7;
+    public void setName(int name) {
+        this.name = 7;
     }
 }
