@@ -3,7 +3,7 @@ package com.driver;
 public class Main {
     public static void main(String[] args) {
         RWOnly obj=new RWOnly();
-        obj.setAashish(5);
+        obj.setAashish("hlo");
         obj.getAashish();
     }
 }
